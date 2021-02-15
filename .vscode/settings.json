@@ -1,0 +1,8 @@
+{
+    "jshint.options": {
+        "esversion": 6
+    },
+    "go.alternateTools": {
+    
+    }
+}
