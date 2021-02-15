@@ -1,0 +1,4 @@
+# Ignore Modules of NodeJS such as express, node, nodemon, graphQL, express-graphQL
+
+node_modules/
+
